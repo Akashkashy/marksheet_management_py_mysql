@@ -4,12 +4,13 @@ This is a marksheet creating program made by use mySQL and Python so you'll need
 
 Next you need to install the following packages:
 
-pip install mysql.connector
-pip install tkinter (if not already installed)
+* pip install mysql.connector
+* pip install tkinter (if not already installed)
+
 Then you need to create a mysql table with following item:
 
-ID
-Name
-Class
-Roll no
-Marks
+* ID
+* Name
+* Class
+* Roll no
+* Marks
